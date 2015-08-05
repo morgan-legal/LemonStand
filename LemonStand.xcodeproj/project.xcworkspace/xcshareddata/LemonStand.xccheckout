@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4CCF4BBD-0966-47E2-82E7-EFF7E4339BE0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LemonStand</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1709A9821F64C762FEEC73DE2525A58DF6CBEC0</key>
+		<string>https://github.com/morgan-legal/LemonStand.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LemonStand.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1709A9821F64C762FEEC73DE2525A58DF6CBEC0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/morgan-legal/LemonStand.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1709A9821F64C762FEEC73DE2525A58DF6CBEC0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1709A9821F64C762FEEC73DE2525A58DF6CBEC0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LemonStand</string>
+		</dict>
+	</array>
+</dict>
+</plist>
